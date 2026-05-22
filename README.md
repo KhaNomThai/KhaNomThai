@@ -106,10 +106,6 @@ Student at Computer Engineering, SWU, Thailand
   </a>
 </p>
 
-### Badges
-
-<a href="https://github.com/KhaNomThai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaNomThai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=8AB4F8&center=true&vCenter=true&width=700&lines=Code+less,+think+more.;Ship+small,+learn+fast.;Simple+is+scalable.;Bugs+are+lessons+in+disguise.;Tiny+steps,+giant+loops.;Momentum+beats+motivation." />
 </p>
