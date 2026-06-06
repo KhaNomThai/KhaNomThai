@@ -11,7 +11,7 @@ Student at Computer Engineering, SWU, Thailand
 🚀 Currently exploring AI applications and mobile app development. Always eager to learn, build, and share new ideas
 
 * 🌍  I'm based in Pathum thani, Thailand
-* 🖥️  See my portfolio at [Kulachart's Resume](https://resume-site-drab.vercel.app/)
+* 🖥️  See my portfolio at [Kulachart's Resume](https://kulachart-resume-site.vercel.app/)
 * ✉️  You can contact me at [kulachart2014@gmail.com](mailto:kulachart2014@gmail.com)
 * 🧠  I'm currently learning React and Backend development
 
