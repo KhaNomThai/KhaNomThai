@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://kulac.dev"><b>kulac.dev</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/KhaNomThai/portfolio/blob/main/src/assets/Kulachart-Parnduangkeaw-CV.pdf">CV (PDF)</a> &nbsp;·&nbsp;
-  <a href="www.linkedin.com/in/kulac">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kulachart-parnduangkeaw-247b47395">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:kulachart@kulac.dev">kulachart@kulac.dev</a>
 </p>
 
