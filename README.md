@@ -1,111 +1,78 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kulachart Parnduangkeaw
-================================================================================================================================================
+<!-- หน้าแรกของสมุด: ใช้รูป OG ของ kulac.dev ตรงๆ แก้ data.ts แล้วรัน npm run og รูปนี้จะอัปเดตตาม -->
+<a href="https://kulac.dev">
+  <img src="https://kulac.dev/og-image.png" alt="Kulachart Parnduangkeaw — Data Science & ML · Full-Stack. Computer Engineering Student, Srinakharinwirot University. Open to Data, AI/ML & full-stack internships." width="100%" />
+</a>
 
-Student at Computer Engineering, SWU, Thailand
-----------------------------------------------
-
-👨‍💻 Computer Engineering student at SWU, Thailand. Passionate about crafting digital experiences through clean code and thoughtful design.
-
-💡 Skilled in full-stack development with React, TypeScript, and Firebase, plus a solid background in Python and Java.
-
-🚀 Currently exploring AI applications and mobile app development. Always eager to learn, build, and share new ideas
-
-* 🌍  I'm based in Pathum thani, Thailand
-* 🖥️  See my portfolio at [Kulachart's Resume](https://kulachart-resume-site.vercel.app/)
-* ✉️  You can contact me at [kulachart2014@gmail.com](mailto:kulachart2014@gmail.com)
-* 🧠  I'm currently learning React and Backend development
-
-### Skills
-
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"]
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" />
-  </a>
-</p>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/KhaNomThai" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://kulac.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/kulachart-parnduangkeaw-247b47395" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
-    </picture>
-  </a>
-  <a href="https://discord.com/users/480649621354315778" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=8CA6FF&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+from+highway+CCTV%2C+in+real+time.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
+      <img alt="I build ML systems and the apps around them." src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=2343C4&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+from+highway+CCTV%2C+in+real+time.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=8AB4F8&center=true&vCenter=true&width=700&lines=Code+less,+think+more.;Ship+small,+learn+fast.;Simple+is+scalable.;Bugs+are+lessons+in+disguise.;Tiny+steps,+giant+loops.;Momentum+beats+motivation." />
+  <a href="https://kulac.dev"><b>kulac.dev</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/KhaNomThai/portfolio/blob/main/src/assets/Kulachart-Parnduangkeaw-CV.pdf">CV (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kulachart-parnduangkeaw-247b47395">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:kulachart@kulac.dev">kulachart@kulac.dev</a>
+</p>
+
+---
+
+### Abstract
+
+I build machine-learning systems and the full-stack apps around them, from a skin-cancer classifier benchmarked on 25,000+ images to a flood-monitoring command center that reads water depth from highway CCTV in real time. In 2026 my teams reached the <mark>top 30 at the KBTG KAMPUS Hackathon</mark> and the <mark>top 24 at the NTT DATA Digital Innovation Challenge</mark>.
+
+- **Now** — Computer Engineering, Srinakharinwirot University (SWU) · CPE Student Leader
+- **2026** — Data Science Intern at Botnoi Group: demand forecasting for SME clients, MLOps, dashboards
+- **Looking for** — Data, AI/ML & full-stack internships
+
+### Lab entries
+
+| No. | Experiment | Result | Stack |
+|:---:|---|---|---|
+| 01 | **[Derma AI: Skin Cancer Screening](https://github.com/KhaNomThai/Healthcare-AI-System)**<br><sub>8-class classifier on ISIC 2019, runs fully in the browser · [demo](https://kulachart2014-derma-ai.static.hf.space/index.html)</sub> | <mark>0.89 AUC-ROC</mark> | PyTorch · ONNX Runtime · React |
+| 02 | **[Smart Flood AI](https://github.com/Panupong-xD/DOH_Hackathon)**<br><sub>Zero-shot Grounding DINO finds cars and wheels in CCTV to estimate water depth</sub> | Real-time dashboard | Grounding DINO · FastAPI · Next.js |
+| 03 | **[KaTang Cash-flow Co-pilot](https://github.com/Panupong-xD/KBTG-Hackathon)**<br><sub>Safe daily spending limit from a gradient-boosting forecast + Monte Carlo · [demo](https://kkatang.vercel.app/)</sub> | Top 30 · KBTG | scikit-learn · Next.js |
+| 04 | **[WELLYNC](https://github.com/Panupong-xD/NTT-Data)**<br><sub>Chronic-care record on AWS with a Bedrock agent that drafts care plans · [demo](https://ntt-data-zeta.vercel.app)</sub> | Top 24 · NTT DATA | Amazon Bedrock · AWS · Next.js |
+| 05 | **Peak Electricity Day Alert**<br><sub>Week-ahead peak-demand forecast with a time-based split</sub> | 84% recall vs 73% baseline | XGBoost · Pandas |
+
+<details>
+<summary><b>More entries</b> (click to expand)</summary>
+<br>
+
+| No. | Experiment | Notes |
+|:---:|---|---|
+| 06 | **[SWU Run Together 2026](https://github.com/Panupong-xD/SwuRun_Register)** | Digital BIB + order status from live Google Sheets · ~300 users |
+| 07 | **[BrainFit](https://github.com/KhaNomThai/BrainFit)** | React Native (Expo) brain-training app for nursing-student research |
+| 08 | **[Prim's Algorithm Visualizer](https://khanomthai.github.io/project-cpe101/)** | Step-by-step graph visualizer |
+| 09 | **[This Portfolio](https://github.com/KhaNomThai/portfolio)** | React 19 · TypeScript · Tailwind v4 · Lab Notebook design system |
+
+</details>
+
+### Toolkit
+
+<sub>Legend: ● ML / DL &nbsp; ■ Data &nbsp; ▲ Full-stack &nbsp; ◆ Languages &nbsp; — same plot markers as on kulac.dev</sub>
+
+● **ML / DL**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,aws&theme=light" alt="PyTorch, scikit-learn, OpenCV, AWS" height="40" />
+&nbsp;XGBoost · Grounding DINO · ONNX Runtime · Amazon Bedrock
+
+■ **Data**<br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" height="40" />
+&nbsp;NumPy · Pandas · Matplotlib · Seaborn · Google Colab
+
+▲ **Full-stack**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,fastapi,firebase,vercel,git,githubactions&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, Vite, FastAPI, Firebase, Vercel, Git, GitHub Actions" height="40" />
+&nbsp;React Native · Expo
+
+◆ **Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp&theme=light" alt="Python, TypeScript, JavaScript, Java, C, C++" height="40" />
+
+---
+
+<p align="center">
+  <sub><b>K.</b> &nbsp;Kulachart Parnduangkeaw · <a href="https://kulac.dev">kulac.dev</a> · Pathum Thani, Thailand</sub>
 </p>
