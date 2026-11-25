@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://kulac.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=8CA6FF&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+from+highway+CCTV%2C+in+real+time.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
-      <img alt="I build ML systems and the apps around them." src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=2343C4&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+from+highway+CCTV%2C+in+real+time.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=8CA6FF&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+estimated+from+CCTV+footage.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
+      <img alt="I build ML systems and the apps around them." src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&pause=1400&color=2343C4&center=true&vCenter=true&width=720&lines=I+build+ML+systems+and+the+apps+around+them.;0.89+AUC-ROC+on+a+skin-cancer+classifier.;Water+depth+estimated+from+CCTV+footage.;Top+30+%C2%B7+KBTG+KAMPUS+Hackathon+2026.;Top+24+%C2%B7+NTT+DATA+Digital+Innovation+Challenge." />
     </picture>
   </a>
 </p>
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://kulac.dev"><b>kulac.dev</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/KhaNomThai/portfolio/blob/main/src/assets/Kulachart-Parnduangkeaw-CV.pdf">CV (PDF)</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kulachart-parnduangkeaw-247b47395">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kulac">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:kulachart@kulac.dev">kulachart@kulac.dev</a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### Abstract
 
-I build machine-learning systems and the full-stack apps around them, from a skin-cancer classifier benchmarked on 25,000+ images to a flood-monitoring command center that reads water depth from highway CCTV in real time. In 2026 my teams reached the <mark>top 30 at the KBTG KAMPUS Hackathon</mark> and the <mark>top 24 at the NTT DATA Digital Innovation Challenge</mark>.
+I build machine-learning systems and the full-stack apps around them, from a skin-cancer classifier built on the 25,331-image ISIC 2019 dataset to a flood-monitoring command-center prototype that estimates water depth from CCTV footage. In 2026 my teams reached the <mark>top 30 at the KBTG KAMPUS Hackathon</mark> and the <mark>top 24 at the NTT DATA Digital Innovation Challenge</mark>.
 
 - **Now** — Computer Engineering, Srinakharinwirot University (SWU) · CPE Student Leader
 - **2026** — Data Science Intern at Botnoi Group: demand forecasting for SME clients, MLOps, dashboards
@@ -38,7 +38,7 @@ I build machine-learning systems and the full-stack apps around them, from a ski
 | 03 | **[Smart Flood AI](https://github.com/Panupong-xD/DOH_Hackathon)**<br><sub>Zero-shot Grounding DINO finds cars and wheels in CCTV to estimate water depth</sub> | DOH Hackathon 2026 | Grounding DINO · FastAPI · Next.js |
 | 04 | **[Derma AI: Skin Cancer Screening](https://github.com/KhaNomThai/Healthcare-AI-System)**<br><sub>8-class classifier on ISIC 2019, runs fully in the browser · [demo](https://kulachart2014-derma-ai.static.hf.space/index.html)</sub> | 0.89 AUC-ROC | PyTorch · ONNX Runtime · React |
 | 05 | **[Peak Electricity Day Alert](https://colab.research.google.com/drive/134nTMQxyBCrZ0LQh8CdX7qjK0NghMNUZ?usp=sharing)**<br><sub>Week-ahead peak-demand forecast with a time-based split · [Colab](https://colab.research.google.com/drive/134nTMQxyBCrZ0LQh8CdX7qjK0NghMNUZ?usp=sharing)</sub> | 84% recall vs 73% baseline | XGBoost · Pandas |
-| 06 | **[Employment Data Gap Analysis](https://colab.research.google.com/drive/1ujTiV7eldCGr3nbqe19WRiARRDcbeWFs?usp=sharing)**<br><sub>Random Forest on 100,000 placement records vs a survey of 80 CPE students · [Colab](https://colab.research.google.com/drive/1ujTiV7eldCGr3nbqe19WRiARRDcbeWFs?usp=sharing)</sub> | Students over-rated internships & portfolio (31% vs 24%) | Random Forest · Pandas |
+| 06 | **[Employment Data Gap Analysis](https://colab.research.google.com/drive/1ujTiV7eldCGr3nbqe19WRiARRDcbeWFs?usp=sharing)**<br><sub>Random Forest on 100,000 synthetic placement rows vs a survey of 80 CPE students · [Colab](https://colab.research.google.com/drive/1ujTiV7eldCGr3nbqe19WRiARRDcbeWFs?usp=sharing)</sub> | Exploratory: students weighted internships & portfolio above the model (31% vs 24%); accuracy 55.5% vs 54.4% baseline | Random Forest · Pandas |
 
 <details>
 <summary><b>More entries</b> (click to expand)</summary>
@@ -46,9 +46,9 @@ I build machine-learning systems and the full-stack apps around them, from a ski
 
 | No. | Experiment | Notes |
 |:---:|---|---|
-| 07 | **[SWU Run Together 2026](https://github.com/Panupong-xD/SwuRun_Register)** | Digital BIB + order status from live Google Sheets · ~300 users |
+| 07 | **[SWU Run Together 2026](https://github.com/Panupong-xD/SwuRun_Register)** | Digital BIB + order status from live Google Sheets · ~300 runners |
 | 08 | **[BrainFit](https://github.com/KhaNomThai/BrainFit)** | React Native (Expo) brain-training app for nursing-student research |
-| 09 | **[Prim's Algorithm Visualizer](https://khanomthai.github.io/project-cpe101/)** | Step-by-step graph visualizer |
+| 09 | **[Prim's Algorithm Visualizer](https://khanomthai.github.io/project-cpe101/)** | Canvas tool that draws a Minimum Spanning Tree |
 | 10 | **[This Portfolio](https://github.com/KhaNomThai/portfolio)** | React 19 · TypeScript · Tailwind v4 · Lab Notebook design system |
 
 </details>
